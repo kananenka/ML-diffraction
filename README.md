@@ -1,3 +1,3 @@
 # ML-diffraction
 
-Gaussian Process Regression for analyzing diffraction patters
+Gaussian Process Regression for analyzing diffraction patterns
